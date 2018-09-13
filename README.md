@@ -1,4 +1,4 @@
-# python_notes
+# python_note
 
 ## Chapters
   1. Intro to Python<br>
